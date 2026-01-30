@@ -1,0 +1,9 @@
+Item,Category,Component,Specification,Quantity,Link
+1,Microcontroller,ESP32-S3-CAM,ESP32-S3 with camera module,1,[https://www.espressif.com/en/products/socs/esp32-s3](https://www.espressif.com/en/products/socs/esp32-s3)
+2,Actuator,Micro Servo Motor,SG90 or equivalent,1,[https://www.towerpro.com.tw/product/sg90-9g-micro-servo/](https://www.towerpro.com.tw/product/sg90-9g-micro-servo/)
+3,Sensor,Touch Sensor,Capacitive touch module or tactile switch,1,[https://www.electrokit.com/en/product/touch-sensor-module](https://www.electrokit.com/en/product/touch-sensor-module)
+4,Audio,Mini Speaker / Buzzer,8Ω small speaker or active buzzer,1,[https://www.adafruit.com/product/1739](https://www.adafruit.com/product/1739)
+5,Power,USB Cable,USB-A to USB-C / Micro-B (board dependent),1,[https://www.amazon.in/](https://www.amazon.in/)
+6,Mechanical,Frame / Enclosure,3D printed or hand-built,1,[https://example.com/custom-frame](https://example.com/custom-frame)
+7,Electrical,Jumper Wires,Male-Female / Female-Female,10,[https://www.sparkfun.com/categories/381](https://www.sparkfun.com/categories/381)
+8,Fasteners,Screws / Adhesive,M2 screws or non-conductive tape,As needed,[https://www.amazon.in/](https://www.amazon.in/)
